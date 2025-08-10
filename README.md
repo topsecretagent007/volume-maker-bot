@@ -34,6 +34,5 @@ npm run start
 ```
 
 ### Contacts
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter:  https://x.com/devcutup
+- Telegram: https://t.me/topsecretagent_007
+- Twitter:  https://x.com/lendon1114
